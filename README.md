@@ -1,2 +1,2 @@
-# Bullets-and-Walls-Collision-Detection
-Detects if a random speed of a bullet can sustain a wall of random material dependent on deformation equation.
+# p5.play-boilerplate
+Boiler plate for p5.play
